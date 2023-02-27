@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">zipView</string>
+    <string name="email">이메일을 입력해주세요.</string>
+    <string name="password">비밀번호를 입력해주세요.</string>
+    <string name="login_email">로그인 하기</string>
+    <string name="find_id_passwd">아이디/비밀번호 찾기</string>
+    <string name="user_name">이름을 입력해주세요.</string>
+    <string name="nickname">닉네임을 입력해주세요.</string>
+    <string name="phone_number">번호를 입력해주세요.</string>
+    <string name="certify_number">인증번호를 입력해주세요.</string>
+    <string name="again_passwd">비밀번호를 다시 한번 입력해주세요.</string>
+    <string name="signup">회원 가입</string>
+</resources>
